@@ -36,7 +36,7 @@ class Api extends React.Component {
   }
 
   renderProp(data, name, Heading) {
-    let typeInfo = this.renderType(data)
+    
 
     return (
       <section key={name}>
